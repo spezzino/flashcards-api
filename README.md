@@ -5,6 +5,9 @@
 ### [GET] /api/flashcards
 Returns a list of [Flashcard](#flashcard).
 
+### [GET] /api/flashcards/random
+Returns a random [Flashcard](#flashcard).
+
 ## Objects
 
 ### Flashcard
